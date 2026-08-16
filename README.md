@@ -113,25 +113,3 @@ Visualization
      ↓
 Saving & Loading .npy Files
 ```
-
-## Repository Structure
-
-```text
-Numpy-learning/
-│
-├── phase1.ipynb
-├── phase2.ipynb
-├── phase3.ipynb
-├── phase4.ipynb
-│
-├── array1.npy
-├── array2.npy
-├── array3.npy
-└── numpy-logo.npy
-```
-
-## Goal
-
-The goal of this repository is to document my progress while learning NumPy and build a strong foundation for **Data Science and Machine Learning**.
-
-This repository will be updated as I continue learning new concepts and applying them to practical examples.
